@@ -20,7 +20,7 @@ let state;
 // boolean => true/false
 // null => standalone value
 // undefined => 
-// symbol => unique
+// symbol => to find uniquess in components (react / figma)
 
 
 // object
